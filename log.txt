@@ -1,300 +1,101 @@
-2019-05-23 09:18:47.868216 Started server on 10.0.0.187:2121
-2019-05-23 09:19:05.774345 SENT: 220 Welcome to this server.
-2019-05-23 09:19:05.774380 Connected on 10.0.0.187:49995
-2019-05-23 09:19:08.378041 SENT: 331 User name okay, need password
-2019-05-23 09:19:09.340758 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:19:09.341296 SENT: 215 darwin type.
-2019-05-23 09:19:09.346951 SENT: 500 Syntax error, command unrecognized. This may include errors such as command line too long.
-2019-05-23 09:19:09.347649 SENT: 257 /Users/prestonbui.
-2019-05-23 09:19:10.511736 SENT: 500 Syntax error, command unrecognized. This may include errors such as command line too long.
-2019-05-23 09:19:10.512390 SENT: 227 Entering Passive Mode (10,0,0,187,195,76).
-2019-05-23 09:19:10.521544 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:19:10.527570 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:21:05.569029 Started server on 10.0.0.187:2121
-2019-05-23 09:21:37.561769 SENT: 220 Welcome to this server.
-2019-05-23 09:21:37.561809 Connected on 10.0.0.187:50008
-2019-05-23 09:21:40.006307 SENT: 331 User name okay, need password
-2019-05-23 09:21:41.178903 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:21:41.179475 SENT: 215 darwin type.
-2019-05-23 09:21:41.185085 SENT: 500 Syntax error, command unrecognized. This may include errors such as command line too long.
-2019-05-23 09:21:41.186200 SENT: 257 /Users/prestonbui.
-2019-05-23 09:21:42.402449 SENT: 500 Syntax error, command unrecognized. This may include errors such as command line too long.
-2019-05-23 09:21:42.403041 SENT: 227 Entering Passive Mode (10,0,0,187,195,89).
-2019-05-23 09:21:42.411984 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:21:42.417603 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:21:48.843233 SENT: 227 Entering Passive Mode (10,0,0,187,195,91).
-2019-05-23 09:21:48.855206 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:21:48.860732 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:22:11.913873 SENT: 250 Changed directory successfuly.
-2019-05-23 09:22:11.914449 SENT: 257 /Users/prestonbui/Desktop.
-2019-05-23 09:22:16.157722 SENT: 227 Entering Passive Mode (10,0,0,187,195,95).
-2019-05-23 09:22:16.161016 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:22:16.165359 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:22:34.125867 SENT: 250 Changed directory successfuly.
-2019-05-23 09:22:34.126294 SENT: 257 /Users/prestonbui/Desktop/...
-2019-05-23 09:22:48.772825 SENT: 257 /Users/prestonbui/Desktop/...
-2019-05-23 09:22:58.676538 SENT: 215 darwin type.
-2019-05-23 09:23:16.635673 SENT: 250 Changed directory successfuly.
-2019-05-23 09:23:16.636191 SENT: 257 /Users/prestonbui/Desktop/../...
-2019-05-23 09:23:17.992731 SENT: 227 Entering Passive Mode (10,0,0,187,195,100).
-2019-05-23 09:23:18.007002 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:23:18.012130 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:23:23.543511 SENT: 250 Changed directory successfuly.
-2019-05-23 09:23:23.544054 SENT: 257 /Users/prestonbui/Desktop/../../prestonbui.
-2019-05-23 09:23:24.241472 SENT: 227 Entering Passive Mode (10,0,0,187,195,102).
-2019-05-23 09:23:24.244484 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:23:24.249768 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:24:20.601069 SENT: 227 Entering Passive Mode (10,0,0,187,195,105).
-2019-05-23 09:24:20.601904 SENT: 500 Syntax error, command unrecognized. This may include errors such as command line too long.
-2019-05-23 09:24:26.435729 SENT: 250 Changed directory successfuly.
-2019-05-23 09:24:26.436223 SENT: 257 /Users/prestonbui/Desktop/../../prestonbui/Desktop.
-2019-05-23 09:24:27.648726 SENT: 227 Entering Passive Mode (10,0,0,187,195,107).
-2019-05-23 09:24:27.651946 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:24:27.656326 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:24:32.446724 SENT: 227 Entering Passive Mode (10,0,0,187,195,109).
-2019-05-23 09:24:32.447670 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:26:31.208668 Started server on 10.0.0.187:2121
-2019-05-23 09:33:23.158527 Started server on 10.0.0.187:21
-2019-05-23 09:33:42.385038 SENT: 220 Welcome to this server.
-2019-05-23 09:33:42.385076 Connected on 10.0.0.187:49306
-2019-05-23 09:33:46.659831 SENT: 331 User name okay, need password
-2019-05-23 09:33:47.677723 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:33:51.561607 SENT: 200 ASCII active
-2019-05-23 09:33:51.562638 SENT: 227 Entering Passive Mode (10,0,0,187,192,158).
-2019-05-23 09:33:51.566246 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:33:51.574170 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:34:00.574257 SENT: 250 Changed directory successfuly.
-2019-05-23 09:34:02.411008 SENT: 200 ASCII active
-2019-05-23 09:34:02.416878 SENT: 227 Entering Passive Mode (10,0,0,187,192,162).
-2019-05-23 09:34:02.420717 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:34:02.425199 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:34:11.437172 SENT: 200 Binary active
-2019-05-23 09:34:11.443125 SENT: 227 Entering Passive Mode (10,0,0,187,192,165).
-2019-05-23 09:34:11.444592 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:34:11.601362 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:34:27.098648 SENT: 200 Binary active
-2019-05-23 09:34:27.104384 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:34:27.105302 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:34:27.236105 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:34:39.607210 SENT: 200 Binary active
-2019-05-23 09:34:39.608569 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:34:39.609649 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:35:51.971074 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:35:54.686837 SENT: 200 ASCII active
-2019-05-23 09:35:54.692622 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:35:54.696519 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:35:54.701725 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:36:10.067251 SENT: 200 Binary active
-2019-05-23 09:36:10.068144 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:36:10.068933 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:36:10.074370 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:42:20.718053 Started server on 10.0.0.187:21
-2019-05-23 09:42:26.665533 SENT: 220 Welcome to this server.
-2019-05-23 09:42:26.665570 Connected on 10.0.0.187:49394
-2019-05-23 09:42:29.310245 RECEIVED USER pbui
-2019-05-23 09:42:29.310513 SENT: 331 User name okay, need password
-2019-05-23 09:42:30.914179 RECEIVED PASS buip
-2019-05-23 09:42:30.914452 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:42:33.569138 RECEIVED TYPE A
-2019-05-23 09:42:33.569398 SENT: 200 ASCII active
-2019-05-23 09:42:33.575501 RECEIVED PASV
-2019-05-23 09:42:33.575940 SENT: 227 Entering Passive Mode (10,0,0,187,192,243).
-2019-05-23 09:42:33.577343 RECEIVED LIST
-2019-05-23 09:42:33.580166 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:42:33.586806 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:42:39.009104 RECEIVED CWD Desktop
-2019-05-23 09:42:39.009434 SENT: 250 Changed directory successfuly.
-2019-05-23 09:42:40.316583 RECEIVED TYPE A
-2019-05-23 09:42:40.316849 SENT: 200 ASCII active
-2019-05-23 09:42:40.322432 RECEIVED PASV
-2019-05-23 09:42:40.322886 SENT: 227 Entering Passive Mode (10,0,0,187,192,245).
-2019-05-23 09:42:40.323823 RECEIVED LIST
-2019-05-23 09:42:40.326354 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:42:40.331069 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:42:55.413602 RECEIVED TYPE I
-2019-05-23 09:42:55.413892 SENT: 200 Binary active
-2019-05-23 09:42:55.420029 RECEIVED PASV
-2019-05-23 09:42:55.420475 SENT: 227 Entering Passive Mode (10,0,0,187,192,248).
-2019-05-23 09:42:55.421745 RECEIVED RETR Flight.pdf
-2019-05-23 09:42:55.422177 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:42:55.423032 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:43:13.062217 RECEIVED TYPE I
-2019-05-23 09:43:13.062642 SENT: 200 Binary active
-2019-05-23 09:43:13.068617 RECEIVED PASV
-2019-05-23 09:43:13.069114 SENT: 227 Entering Passive Mode (10,0,0,187,192,250).
-2019-05-23 09:43:13.070234 RECEIVED STOR log.txt
-2019-05-23 09:43:13.070715 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:43:13.071689 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:43:27.618398 RECEIVED QUIT
-2019-05-23 09:43:27.618671 SENT: 221 Goodbye
-2019-05-23 09:43:27.624491 RECEIVED 
-2019-05-23 09:49:30.195598 Started server on 10.0.0.187:2121
-2019-05-23 09:50:13.139238 SENT: 220 Welcome to this server.
-2019-05-23 09:50:13.139299 Connected on 10.0.0.187:49434
-2019-05-23 09:50:14.954037 RECEIVED USER pbui
-2019-05-23 09:50:14.954326 SENT: 331 User name okay, need password
-2019-05-23 09:50:15.928962 RECEIVED PASS buip
-2019-05-23 09:50:15.929238 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:50:18.546992 RECEIVED TYPE A
-2019-05-23 09:50:18.547282 SENT: 200 ASCII active
-2019-05-23 09:50:18.553484 RECEIVED PASV
-2019-05-23 09:50:18.553916 SENT: 227 Entering Passive Mode (10,0,0,187,193,27).
-2019-05-23 09:50:18.555084 RECEIVED LIST
-2019-05-23 09:50:18.558131 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:50:18.563745 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:50:50.888282 RECEIVED TYPE I
-2019-05-23 09:50:50.888584 SENT: 200 Binary active
-2019-05-23 09:50:50.894761 RECEIVED PASV
-2019-05-23 09:50:50.895238 SENT: 227 Entering Passive Mode (10,0,0,187,193,29).
-2019-05-23 09:50:50.896497 RECEIVED RETR log
-2019-05-23 09:50:50.896930 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:50:50.897803 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:50:56.147762 RECEIVED QUIT
-2019-05-23 09:50:56.148048 SENT: 221 Service clsing connection. Goodbye!
-2019-05-23 09:50:56.153180 SENT: Bad sequence of commands.
-2019-05-23 09:54:47.550953 Started server on 10.0.0.187:2121
-2019-05-23 09:56:20.464935 SENT: 220 Welcome to this server.
-2019-05-23 09:56:20.464976 Connected on 10.0.0.187:49504
-2019-05-23 09:56:24.857201 RECEIVED USER pbui
-2019-05-23 09:56:24.857759 SENT: 331 User name okay, need password
-2019-05-23 09:56:25.818498 RECEIVED PASS buip
-2019-05-23 09:56:25.818969 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:56:25.824787 RECEIVED SYST
-2019-05-23 09:56:25.825352 SENT: 215 darwin type.
-2019-05-23 09:56:25.825907 RECEIVED FEAT
-2019-05-23 09:56:25.826318 SENT: Bad sequence of commands.
-2019-05-23 09:56:25.826863 RECEIVED PWD
-2019-05-23 09:56:25.827159 SENT: 257 /Users/prestonbui.
-2019-05-23 09:58:06.217649 RECEIVED EPSV
-2019-05-23 09:58:06.222474 SENT: Bad sequence of commands.
-2019-05-23 09:58:06.223150 RECEIVED PASV
-2019-05-23 09:58:06.223628 SENT: 227 Entering Passive Mode (10,0,0,187,193,106).
-2019-05-23 09:58:06.224406 RECEIVED LIST
-2019-05-23 09:58:06.227392 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:58:06.233308 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:58:09.396243 RECEIVED QUIT
-2019-05-23 09:58:09.396645 SENT: 221 Service clsing connection. Goodbye!
-2019-05-23 09:58:09.402182 RECEIVED 
-2019-05-23 09:58:22.334462 Started server on 10.0.0.187:2121
-2019-05-23 09:58:31.729265 SENT: 220 Welcome to this server.
-2019-05-23 09:58:31.729306 Connected on 10.0.0.187:49518
-2019-05-23 09:58:33.632182 RECEIVED USER pbui
-2019-05-23 09:58:33.632526 SENT: 331 User name okay, need password
-2019-05-23 09:58:35.082405 RECEIVED PASS buip
-2019-05-23 09:58:35.091846 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 09:58:35.092721 RECEIVED SYST
-2019-05-23 09:58:35.093126 SENT: 215 darwin type.
-2019-05-23 09:58:35.093642 RECEIVED FEAT
-2019-05-23 09:58:35.093975 SENT: Bad sequence of commands.
-2019-05-23 09:58:35.094627 RECEIVED PWD
-2019-05-23 09:58:35.094940 SENT: 257 /Users/prestonbui.
-2019-05-23 09:58:35.563937 RECEIVED EPSV
-2019-05-23 09:58:35.564276 SENT: Bad sequence of commands.
-2019-05-23 09:58:35.569825 RECEIVED PASV
-2019-05-23 09:58:35.570160 SENT: 227 Entering Passive Mode (10,0,0,187,193,111).
-2019-05-23 09:58:35.570707 RECEIVED LIST
-2019-05-23 09:58:35.573239 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:58:35.580629 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:58:38.861271 RECEIVED PWD
-2019-05-23 09:58:38.861623 SENT: 257 /Users/prestonbui.
-2019-05-23 09:58:41.548171 RECEIVED PWD
-2019-05-23 09:58:41.548511 SENT: 257 /Users/prestonbui.
-2019-05-23 09:58:44.402309 RECEIVED SYST
-2019-05-23 09:58:44.402666 SENT: 215 darwin type.
-2019-05-23 09:59:22.566277 RECEIVED SYST
-2019-05-23 09:59:22.566610 SENT: 215 darwin type.
-2019-05-23 09:59:23.511448 RECEIVED PWD
-2019-05-23 09:59:23.511785 SENT: 257 /Users/prestonbui.
-2019-05-23 09:59:37.088859 RECEIVED PORT 10,0,0,187,193,114
-2019-05-23 09:59:37.089228 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:59:37.094903 RECEIVED LIST
-2019-05-23 09:59:37.098124 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:59:37.104815 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:59:38.990185 RECEIVED PORT 10,0,0,187,193,116
-2019-05-23 09:59:38.990766 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:59:38.996256 RECEIVED LIST
-2019-05-23 09:59:38.999572 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:59:39.006137 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 09:59:40.600293 RECEIVED PORT 10,0,0,187,193,118
-2019-05-23 09:59:40.600614 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:59:40.606385 RECEIVED NLST
-2019-05-23 09:59:40.606848 SENT: Bad sequence of commands.
-2019-05-23 09:59:43.780236 RECEIVED CWD Desktop
-2019-05-23 09:59:43.780618 SENT: 250 Changed directory successfuly.
-2019-05-23 09:59:43.786480 RECEIVED PWD
-2019-05-23 09:59:43.787047 SENT: 257 /Users/prestonbui/Desktop.
-2019-05-23 09:59:44.813009 RECEIVED PORT 10,0,0,187,193,119
-2019-05-23 09:59:44.813484 SENT: 200 Received connection info. Entering active mode
-2019-05-23 09:59:44.819012 RECEIVED LIST
-2019-05-23 09:59:44.822064 SENT: 150 File status okay; about to open data connection.
-2019-05-23 09:59:44.826933 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:00:05.767214 RECEIVED SIZE Flight.pdf
-2019-05-23 10:00:05.773731 SENT: Bad sequence of commands.
-2019-05-23 10:00:05.774597 RECEIVED PORT 10,0,0,187,193,121
-2019-05-23 10:00:05.774982 SENT: 200 Received connection info. Entering active mode
-2019-05-23 10:00:05.775422 RECEIVED RETR Flight.pdf
-2019-05-23 10:00:05.775912 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:00:05.776566 SENT: Bad sequence of commands.
-2019-05-23 10:00:20.035069 SENT: Bad sequence of commands.
-2019-05-23 10:00:20.035445 SENT: Bad sequence of commands.
-2019-05-23 10:00:31.683846 RECEIVED PORT 10,0,0,187,193,123
-2019-05-23 10:00:31.684197 SENT: 200 Received connection info. Entering active mode
-2019-05-23 10:00:43.434547 RECEIVED QUIT
-2019-05-23 10:00:43.434937 SENT: 221 Service clsing connection. Goodbye!
-2019-05-23 10:00:43.440294 SENT: Bad sequence of commands.
-2019-05-23 10:01:16.118282 Started server on 10.0.0.187:2121
-2019-05-23 10:01:31.075288 SENT: 220 Welcome to this server.
-2019-05-23 10:01:31.075330 Connected on 10.0.0.187:49534
-2019-05-23 10:01:36.667093 RECEIVED USER pbui
-2019-05-23 10:01:36.667516 SENT: 331 User name okay, need password
-2019-05-23 10:01:40.676260 RECEIVED PASS buip
-2019-05-23 10:01:40.676521 SENT: 230 User logged in, proceed. Logged out if appropriate
-2019-05-23 10:01:43.966581 RECEIVED TYPE A
-2019-05-23 10:01:43.966836 SENT: 200 ASCII active
-2019-05-23 10:01:43.972689 RECEIVED PASV
-2019-05-23 10:01:43.973283 SENT: 227 Entering Passive Mode (10,0,0,187,193,127).
-2019-05-23 10:01:43.974640 RECEIVED LIST
-2019-05-23 10:01:43.977476 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:01:43.984348 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:01:53.631779 RECEIVED TYPE A
-2019-05-23 10:01:53.632078 SENT: 200 ASCII active
-2019-05-23 10:01:53.638361 RECEIVED PORT 10,0,0,187,193,129
-2019-05-23 10:01:53.638711 SENT: 200 Received connection info. Entering active mode
-2019-05-23 10:01:53.639570 RECEIVED LIST
-2019-05-23 10:01:53.642492 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:01:53.648886 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:02:04.088004 RECEIVED PWD
-2019-05-23 10:02:04.088398 SENT: 257 /Users/prestonbui.
-2019-05-23 10:02:20.623789 RECEIVED TYPE I
-2019-05-23 10:02:20.624088 SENT: 200 Binary active
-2019-05-23 10:02:20.630302 RECEIVED PORT 10,0,0,187,193,132
-2019-05-23 10:02:20.630771 SENT: 200 Received connection info. Entering active mode
-2019-05-23 10:02:20.631619 RECEIVED RETR .vimrc
-2019-05-23 10:02:20.632040 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:02:20.632666 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:02:32.043596 RECEIVED TYPE I
-2019-05-23 10:02:32.043865 SENT: 200 Binary active
-2019-05-23 10:02:32.050176 RECEIVED PORT 10,0,0,187,193,134
-2019-05-23 10:02:32.050494 SENT: 200 Received connection info. Entering active mode
-2019-05-23 10:02:32.051310 RECEIVED STOR log.txt
-2019-05-23 10:02:32.052191 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:02:32.053112 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:02:54.764905 RECEIVED PWD
-2019-05-23 10:02:54.765159 SENT: 257 /Users/prestonbui.
-2019-05-23 10:02:59.546311 RECEIVED TYPE I
-2019-05-23 10:02:59.546546 SENT: 200 Binary active
-2019-05-23 10:02:59.552336 RECEIVED PASV
-2019-05-23 10:02:59.552722 SENT: 227 Entering Passive Mode (10,0,0,187,193,136).
-2019-05-23 10:02:59.553814 RECEIVED RETR .vimrc
-2019-05-23 10:02:59.554119 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:02:59.554536 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:03:37.307916 RECEIVED TYPE I
-2019-05-23 10:03:37.308342 SENT: 200 Binary active
-2019-05-23 10:03:37.309371 RECEIVED PASV
-2019-05-23 10:03:37.309845 SENT: 227 Entering Passive Mode (10,0,0,187,193,138).
-2019-05-23 10:03:37.310703 RECEIVED STOR client.py
-2019-05-23 10:03:37.311111 SENT: 150 File status okay; about to open data connection.
-2019-05-23 10:03:37.311855 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
-2019-05-23 10:03:39.842902 RECEIVED QUIT
-2019-05-23 10:03:39.843180 SENT: 221 Service clsing connection. Goodbye!
-2019-05-23 10:03:39.849015 RECEIVED 
+2019-05-23 11:23:51.228174 Started server on 10.0.0.187:2121
+2019-05-23 11:24:02.705953 Connected on 10.0.0.187:50165
+2019-05-23 11:24:02.705883 SENT: 220 Welcome to this server.
+2019-05-23 11:24:07.149673 RECEIVED USER cs472
+2019-05-23 11:24:07.149935 SENT: 331 User name okay, need password
+2019-05-23 11:24:08.388669 RECEIVED PASS pass
+2019-05-23 11:24:08.388912 SENT: 230 User logged in, proceed. Logged out if appropriate
+2019-05-23 11:24:12.220616 RECEIVED TYPE A
+2019-05-23 11:24:12.220876 SENT: 200 ASCII active
+2019-05-23 11:24:12.226359 RECEIVED PASV
+2019-05-23 11:24:12.226640 SENT: 227 Entering Passive Mode (10,0,0,187,195,246).
+2019-05-23 11:24:12.227555 RECEIVED LIST
+2019-05-23 11:24:12.230236 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:24:12.235500 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:24:24.095053 RECEIVED CWD Desktop
+2019-05-23 11:24:24.095380 SENT: 250 Changed directory successfuly.
+2019-05-23 11:24:26.552049 RECEIVED TYPE A
+2019-05-23 11:24:26.552331 SENT: 200 ASCII active
+2019-05-23 11:24:26.557850 RECEIVED PASV
+2019-05-23 11:24:26.558281 SENT: 227 Entering Passive Mode (10,0,0,187,195,248).
+2019-05-23 11:24:26.559437 RECEIVED LIST
+2019-05-23 11:24:26.563209 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:24:26.568039 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:24:39.929134 RECEIVED CDUP
+2019-05-23 11:24:39.929899 SENT: 250 Changed directory successfuly.
+2019-05-23 11:24:42.574055 RECEIVED TYPE A
+2019-05-23 11:24:42.574375 SENT: 200 ASCII active
+2019-05-23 11:24:42.580587 RECEIVED PASV
+2019-05-23 11:24:42.581058 SENT: 227 Entering Passive Mode (10,0,0,187,195,250).
+2019-05-23 11:24:42.582334 RECEIVED LIST
+2019-05-23 11:24:42.585304 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:24:42.590812 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:24:51.194894 RECEIVED TYPE I
+2019-05-23 11:24:51.195196 SENT: 200 Binary active
+2019-05-23 11:24:51.201247 RECEIVED PASV
+2019-05-23 11:24:51.201667 SENT: 227 Entering Passive Mode (10,0,0,187,195,252).
+2019-05-23 11:24:51.202804 RECEIVED RETR log
+2019-05-23 11:24:51.203333 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:24:51.203793 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:24:59.212445 RECEIVED TYPE I
+2019-05-23 11:24:59.212731 SENT: 200 Binary active
+2019-05-23 11:24:59.218646 RECEIVED PASV
+2019-05-23 11:24:59.219032 SENT: 227 Entering Passive Mode (10,0,0,187,195,254).
+2019-05-23 11:24:59.220177 RECEIVED STOR log.txt
+2019-05-23 11:24:59.220580 SENT: Requested action not taken. File unavailable (e.g., file not found, no access).
+2019-05-23 11:25:18.942124 RECEIVED TYPE I
+2019-05-23 11:25:18.942379 SENT: 200 Binary active
+2019-05-23 11:25:18.948729 RECEIVED PASV
+2019-05-23 11:25:18.949247 SENT: 227 Entering Passive Mode (10,0,0,187,196,0).
+2019-05-23 11:25:18.950439 RECEIVED STOR client.py
+2019-05-23 11:25:18.950819 SENT: Requested action not taken. File unavailable (e.g., file not found, no access).
+2019-05-23 11:25:55.629665 RECEIVED CWD Desktop
+2019-05-23 11:25:55.629958 SENT: 250 Changed directory successfuly.
+2019-05-23 11:26:00.597521 RECEIVED TYPE I
+2019-05-23 11:26:00.597809 SENT: 200 Binary active
+2019-05-23 11:26:00.603298 RECEIVED PASV
+2019-05-23 11:26:00.603843 SENT: 227 Entering Passive Mode (10,0,0,187,196,2).
+2019-05-23 11:26:00.604884 RECEIVED STOR log.txt
+2019-05-23 11:26:00.605181 SENT: Requested action not taken. File unavailable (e.g., file not found, no access).
+2019-05-23 11:26:24.143954 RECEIVED TYPE I
+2019-05-23 11:26:24.144224 SENT: 200 Binary active
+2019-05-23 11:26:24.150031 RECEIVED PASV
+2019-05-23 11:26:24.150530 SENT: 227 Entering Passive Mode (10,0,0,187,196,6).
+2019-05-23 11:26:24.151725 RECEIVED STOR client.py
+2019-05-23 11:26:24.152319 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:26:24.153245 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:26:33.964328 RECEIVED CDUP
+2019-05-23 11:26:33.964810 SENT: 250 Changed directory successfuly.
+2019-05-23 11:26:38.293977 RECEIVED TYPE A
+2019-05-23 11:26:38.294244 SENT: 200 ASCII active
+2019-05-23 11:26:38.300212 RECEIVED PASV
+2019-05-23 11:26:38.300754 SENT: 227 Entering Passive Mode (10,0,0,187,196,8).
+2019-05-23 11:26:38.301753 RECEIVED LIST
+2019-05-23 11:26:38.304600 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:26:38.310547 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:26:53.730321 RECEIVED CWD Documents
+2019-05-23 11:26:53.730601 SENT: 250 Changed directory successfuly.
+2019-05-23 11:27:00.703563 RECEIVED TYPE I
+2019-05-23 11:27:00.703825 SENT: 200 Binary active
+2019-05-23 11:27:00.709992 RECEIVED PASV
+2019-05-23 11:27:00.710432 SENT: 227 Entering Passive Mode (10,0,0,187,196,11).
+2019-05-23 11:27:00.711650 RECEIVED STOR client.py
+2019-05-23 11:27:00.712182 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:27:00.712921 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:27:05.576256 RECEIVED TYPE A
+2019-05-23 11:27:05.576933 SENT: 200 ASCII active
+2019-05-23 11:27:05.578077 RECEIVED PORT 10,0,0,187,196,13
+2019-05-23 11:27:05.578380 SENT: 200 Received connection info. Entering active mode
+2019-05-23 11:27:05.579258 RECEIVED LIST
+2019-05-23 11:27:05.582440 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:27:05.588699 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:27:31.028411 RECEIVED TYPE I
+2019-05-23 11:27:31.028694 SENT: 200 Binary active
+2019-05-23 11:27:31.034552 RECEIVED PORT 10,0,0,187,196,15
+2019-05-23 11:27:31.034853 SENT: 200 Received connection info. Entering active mode
+2019-05-23 11:27:31.035841 RECEIVED RETR license.dat
+2019-05-23 11:27:31.036274 SENT: 150 File status okay; about to open data connection.
+2019-05-23 11:27:31.037132 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+2019-05-23 11:27:39.535345 RECEIVED QUIT
+2019-05-23 11:27:39.535622 SENT: 221 Service clsing connection. Goodbye!
+2019-05-23 11:27:39.541185 RECEIVED 

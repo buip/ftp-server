@@ -1,7 +1,24 @@
 1.
+The security of the FTP data and commands are not good but it is still better than BitTorrent.
+The data and commands of FTP is not encrypted. So anyone who can intefere with the connection 
+can see the whole data. It's still better than BitTorrent because FTP has a authentication protocol
+where user has to be validated. FTP is much more secured because the data is encrypted. 
 
 2.
+Yes, someone can definitely hack into my FTP server. If I don't carefully validate the state and 
+the user for every command, the hacker can basically send a error command that cause the socket
+to reset, but the server stills think that it has a valid user connected. The hacker can also
+intefere with the data connection because it's not encrypted
 
 3.
+FTP makes transferring files easy. The mechanism of transferring a file is very simple. It's basically
+read and write to a file. FTP is not very secured compared to SFTP. Also, if you don't have a good 
+connection, data corruption can happen. FTP does not a reroll mechanism where if a file is sent partially,
+it should be deleted
 
 4.
+The way we usually implement this is with one command channel and one data channel. Merging these two into
+one is very challenging because we have to some how send the data and the signal right after another.
+The client will find it very challenging to figure out which one is the command, which one is a data
+For example, the client usually validate using status code like 226, 503, etc. What if the data we send
+also have these code, then it would be very hard.

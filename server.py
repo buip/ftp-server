@@ -8,7 +8,7 @@ import sys
 import time
 import subprocess
 from logger import Logger
-#from utils import fileProperty
+from dfa import DFA
 
 allow_delete = False
 BLOCK=8192
@@ -40,6 +40,7 @@ class FTPServer(threading.Thread):
         self.logger = Logger(file_name)
         self.logged_in = False
         self.is_active = True
+        self.dfa = DFA()
         self.__user_dict = self.__get_user()
 
     def __get_user(self):
