@@ -14,7 +14,6 @@ def start_sever():
     Using the threading libabry, this method can achieve truly concurrency
     """
     listen_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    listen_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     listen_sock.bind((HOST, PORT))
     listen_sock.listen(5)
     logger.write_to_log_file('Started server on ' + HOST + ':' + str(PORT) + "\n")

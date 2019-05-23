@@ -328,6 +328,7 @@ class FTPServer(threading.Thread):
         self.send_cmd(status_code[150] + CRLF)
         self.open_data_sock()
 
+        #Read data line by line
         while True:
             block = f.read(BLOCK)
             if not block:
