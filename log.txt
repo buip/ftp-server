@@ -1,0 +1,698 @@
+2019-05-23 06:12:47.071541 Started server on 10.0.0.187:2121
+2019-05-23 06:13:21.244668 Started server on 10.0.0.187:2121
+2019-05-23 06:15:17.230091 SENT: 220 Welcome to this server.
+
+2019-05-23 06:15:17.230130 Connected on 10.0.0.187:50851
+2019-05-23 06:15:20.028520 RECEIVED USER pbui
+2019-05-23 06:15:20.028823 SENT: 331 User name okay, need password
+
+2019-05-23 06:15:22.262793 RECEIVED PASS buip
+2019-05-23 06:15:22.263112 SENT: 230 User logged in, proceed. Logged out if appropriate
+
+2019-05-23 06:15:22.268891 RECEIVED SYST
+2019-05-23 06:15:22.269314 SENT: 215 darwin type.
+
+2019-05-23 06:15:22.269926 RECEIVED FEAT
+2019-05-23 06:15:22.270395 SENT: 502 Command not implemented.
+
+2019-05-23 06:15:22.270849 RECEIVED PWD
+2019-05-23 06:15:22.271033 SENT: 257 /Users/prestonbui.
+
+2019-05-23 06:15:24.878159 RECEIVED EPSV
+2019-05-23 06:15:24.878443 SENT: 502 Command not implemented.
+
+2019-05-23 06:15:24.883876 RECEIVED PASV
+2019-05-23 06:15:24.884163 SENT: 227 Entering Passive Mode (10,0,0,187,198,164).
+
+2019-05-23 06:15:24.884697 RECEIVED LIST
+2019-05-23 06:15:24.887413 SENT: 150 File status okay; about to open data connection.
+
+2019-05-23 06:15:24.893058 SENT: total 8304
+
+2019-05-23 06:15:24.893405 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 27 18:45 .3T
+
+2019-05-23 06:15:24.893714 SENT: -r--------   1 prestonbui  staff        7 Jan 25  2018 .CFUserTextEncoding
+
+2019-05-23 06:15:24.893976 SENT: -rw-r--r--@  1 prestonbui  staff    14340 May 11 17:06 .DS_Store
+
+2019-05-23 06:15:24.894171 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .IdentityService
+
+2019-05-23 06:15:24.894372 SENT: -rw-r--r--   1 prestonbui  staff     3394 May 14 18:17 .Rapp.history
+
+2019-05-23 06:15:24.894707 SENT: drwx------   3 prestonbui  staff       96 Dec  5 13:11 .ServiceHub
+
+2019-05-23 06:15:24.895030 SENT: drwx------  28 prestonbui  staff      896 May 22 01:56 .Trash
+
+2019-05-23 06:15:24.895236 SENT: -rw-r--r--   1 prestonbui  staff      290 Apr 28 15:13 .aliases
+
+2019-05-23 06:15:24.895445 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:10 .anaconda
+
+2019-05-23 06:15:24.895608 SENT: drwxr-xr-x  18 prestonbui  staff      576 Mar 12 14:21 .android
+
+2019-05-23 06:15:24.895849 SENT: drwxr-xr-x  16 prestonbui  staff      512 May 21 23:52 .atom
+
+2019-05-23 06:15:24.896147 SENT: -rw-r--r--   1 prestonbui  staff  3622969 May 25  2018 .babel.json
+
+2019-05-23 06:15:24.896374 SENT: -rw-------   1 prestonbui  staff      238 Dec 13 11:47 .bash_history
+
+2019-05-23 06:15:24.896544 SENT: -rw-r--r--@  1 prestonbui  staff     1117 May 11 16:45 .bash_profile
+
+2019-05-23 06:15:24.896805 SENT: -rw-r--r--   1 prestonbui  staff      631 Dec 13 11:32 .bash_profile-anaconda2.bak
+
+2019-05-23 06:15:24.897006 SENT: -rw-r--r--   1 prestonbui  staff     1227 Dec 13 11:54 .bash_profile-anaconda3.bak
+
+2019-05-23 06:15:24.897256 SENT: -rw-r--r--   1 prestonbui  staff       35 May 11 16:38 .bashrc
+
+2019-05-23 06:15:24.897521 SENT: -rw-------   1 prestonbui  staff        1 Apr 28 11:03 .bashrc.save
+
+2019-05-23 06:15:24.897783 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 28 02:03 .cache
+
+2019-05-23 06:15:24.897964 SENT: drwxr-xr-x   4 prestonbui  staff      128 Mar 27  2018 .circleci
+
+2019-05-23 06:15:24.898142 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:54 .conda
+
+2019-05-23 06:15:24.898376 SENT: -rw-r--r--   1 prestonbui  staff       40 May 11 16:13 .condarc
+
+2019-05-23 06:15:24.898695 SENT: drwx------   9 prestonbui  staff      288 Feb 13  2018 .config
+
+2019-05-23 06:15:24.898955 SENT: -rw-------   1 prestonbui  staff        0 Jan 26  2018 .dbshell
+
+2019-05-23 06:15:24.899175 SENT: drwxr-xr-x   5 prestonbui  staff      160 Aug 30  2018 .docker
+
+2019-05-23 06:15:24.899455 SENT: drwxr-xr-x  10 prestonbui  staff      320 Sep  1  2018 .eclipse
+
+2019-05-23 06:15:24.899683 SENT: -rw-------   1 prestonbui  staff       16 Jan 28  2018 .emulator_console_auth_token
+
+2019-05-23 06:15:24.899866 SENT: drwxr-xr-x  10 prestonbui  staff      320 May 30  2018 .expo
+
+2019-05-23 06:15:24.900047 SENT: drwxr-xr-x   4 prestonbui  staff      128 Jul  7  2018 .gem
+
+2019-05-23 06:15:24.900338 SENT: -rw-r--r--   1 prestonbui  staff       52 Jan 25  2018 .gitconfig
+
+2019-05-23 06:15:24.900525 SENT: drwxr-xr-x   7 prestonbui  staff      224 Jan 25  2018 .gradle
+
+2019-05-23 06:15:24.900681 SENT: drwxr-xr-x   2 prestonbui  staff       64 May 11 16:58 .ipynb_checkpoints
+
+2019-05-23 06:15:24.900833 SENT: drwxr-xr-x   5 prestonbui  staff      160 Dec 31 14:48 .ipython
+
+2019-05-23 06:15:24.901054 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 31 15:13 .jupyter
+
+2019-05-23 06:15:24.901284 SENT: -rw-------   1 prestonbui  staff       47 May 11 16:23 .lesshst
+
+2019-05-23 06:15:24.901473 SENT: drwx------   3 prestonbui  staff       96 Jan 25  2018 .local
+
+2019-05-23 06:15:24.901652 SENT: -rw-------   1 prestonbui  staff        0 Jan 25  2018 .mongorc.js
+
+2019-05-23 06:15:24.901978 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .mono
+
+2019-05-23 06:15:24.902194 SENT: -rw-------   1 prestonbui  staff     2272 Jan 31  2018 .mysql_history
+
+2019-05-23 06:15:24.902360 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 16 18:24 .node-gyp
+
+2019-05-23 06:15:24.902521 SENT: -rw-------   1 prestonbui  staff     1534 Apr  4  2018 .node_repl_history
+
+2019-05-23 06:15:24.902692 SENT: drwxr-xr-x   7 prestonbui  staff      224 Dec 16 17:35 .npm
+
+2019-05-23 06:15:24.902854 SENT: -rw-r--r--   1 prestonbui  staff       43 Apr 17  2018 .nuuid.ini
+
+2019-05-23 06:15:24.903036 SENT: drwxr-xr-x  16 prestonbui  staff      512 Jan 25  2018 .oh-my-zsh
+
+2019-05-23 06:15:24.903190 SENT: drwxr-xr-x  11 prestonbui  staff      352 Apr 18 15:50 .oracle_jre_usage
+
+2019-05-23 06:15:24.903343 SENT: drwxr-xr-x   8 prestonbui  staff      256 Sep  1  2018 .p2
+
+2019-05-23 06:15:24.903491 SENT: -rw-------   1 prestonbui  staff      329 Mar 12  2018 .php_history
+
+2019-05-23 06:15:24.903639 SENT: -rw-------   1 prestonbui  staff     1734 May 11 17:14 .psql_history
+
+2019-05-23 06:15:24.903786 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 21 17:46 .pylint.d
+
+2019-05-23 06:15:24.903975 SENT: -rw-------   1 prestonbui  staff      711 May 23 05:26 .python_history
+
+2019-05-23 06:15:24.904182 SENT: drwxr-xr-x   6 prestonbui  staff      192 May 23  2018 .rncache
+
+2019-05-23 06:15:24.904371 SENT: -rw-------   1 prestonbui  staff       39 Apr 19 00:34 .sh_history
+
+2019-05-23 06:15:24.904590 SENT: drwx------   7 prestonbui  staff      224 Jan  9 16:30 .ssh
+
+2019-05-23 06:15:24.904777 SENT: drwxr-xr-x   6 prestonbui  staff      192 Jan 26  2018 .subversion
+
+2019-05-23 06:15:24.904937 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .templateengine
+
+2019-05-23 06:15:24.905094 SENT: drwxr-xr-x   2 prestonbui  staff       64 Nov  6  2018 .thinkorswim
+
+2019-05-23 06:15:24.905246 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 .tooling
+
+2019-05-23 06:15:24.905398 SENT: drwxr-xr-x   4 prestonbui  staff      128 Apr 18 22:21 .vim
+
+2019-05-23 06:15:24.905548 SENT: -rw-r--r--   1 prestonbui  staff     4872 May 23 05:55 .vim_mru_files
+
+2019-05-23 06:15:24.905698 SENT: drwxr-xr-x  16 prestonbui  staff      512 Mar 28 02:03 .vim_runtime
+
+2019-05-23 06:15:24.905852 SENT: -rw-------   1 prestonbui  staff    34545 May 23 05:58 .viminfo
+
+2019-05-23 06:15:24.906009 SENT: -rw-r--r--   1 prestonbui  staff      286 Apr 17 13:03 .vimrc
+
+2019-05-23 06:15:24.906157 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jun 29  2018 .vmware
+
+2019-05-23 06:15:24.906302 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 26  2018 .vscode
+
+2019-05-23 06:15:24.906457 SENT: -rw-r--r--   1 prestonbui  staff    38596 Jan 28  2018 .zcompdump-Phuong’s MacBook Pro-5.2
+
+2019-05-23 06:15:24.906623 SENT: -rw-r--r--   1 prestonbui  staff    40595 Feb 19  2018 .zcompdump-Phuong’s MacBook Pro-5.3
+
+2019-05-23 06:15:24.906780 SENT: drwxr-xr-x   3 prestonbui  staff       96 Apr 16 16:05 .zoomus
+
+2019-05-23 06:15:24.906940 SENT: -rw-r--r--   1 prestonbui  staff       17 Jan 25  2018 .zsh-update
+
+2019-05-23 06:15:24.907094 SENT: -rw-------   1 prestonbui  staff   343291 May 23 06:13 .zsh_history
+
+2019-05-23 06:15:24.907263 SENT: -rw-r--r--   1 prestonbui  staff     4290 May 11 16:45 .zshrc
+
+2019-05-23 06:15:24.907524 SENT: drwx------@  4 prestonbui  staff      128 Mar 24 16:01 Applications
+
+2019-05-23 06:15:24.907678 SENT: drwxr-xr-x   3 prestonbui  staff       96 Feb 20 19:08 CLionProjects
+
+2019-05-23 06:15:24.907827 SENT: drwx------+ 29 prestonbui  staff      928 May 23 05:21 Desktop
+
+2019-05-23 06:15:24.908006 SENT: drwx------+ 21 prestonbui  staff      672 May  5 18:38 Documents
+
+2019-05-23 06:15:24.908155 SENT: drwx------+ 83 prestonbui  staff     2656 May 22 23:55 Downloads
+
+2019-05-23 06:15:24.908310 SENT: drwxr-xr-x   5 prestonbui  staff      160 Apr 20 19:46 IdeaProjects
+
+2019-05-23 06:15:24.908463 SENT: drwx------@ 85 prestonbui  staff     2720 May 11 16:20 Library
+
+2019-05-23 06:15:24.908764 SENT: drwx------+  5 prestonbui  staff      160 Sep 30  2018 Movies
+
+2019-05-23 06:15:24.909052 SENT: drwx------+  7 prestonbui  staff      224 Feb 17 14:05 Music
+
+2019-05-23 06:15:24.909345 SENT: drwx------+  9 prestonbui  staff      288 May 14 20:57 Pictures
+
+2019-05-23 06:15:24.909591 SENT: drwxr-xr-x+  5 prestonbui  staff      160 Jan 25  2018 Public
+
+2019-05-23 06:15:24.909814 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 15 03:28 PycharmProjects
+
+2019-05-23 06:15:24.910035 SENT: drwxr-xr-x@  4 prestonbui  staff      128 Sep 30  2018 Virtual Machines.localized
+
+2019-05-23 06:15:24.910239 SENT: drwxr-xr-x   2 prestonbui  staff       64 Mar 29 01:32 VirtualBox VMs
+
+2019-05-23 06:15:24.910501 SENT: drwxr-xr-x  27 prestonbui  staff      864 May 11 16:28 anaconda3
+
+2019-05-23 06:15:24.910896 SENT: drwxr-xr-x   4 prestonbui  staff      128 Feb  7  2018 data-algo
+
+2019-05-23 06:15:24.911164 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 eclipse
+
+2019-05-23 06:15:24.911453 SENT: drwxr-xr-x   5 prestonbui  staff      160 Sep  1  2018 eclipse-workspace
+
+2019-05-23 06:15:24.911662 SENT: -rw-r--r--   1 root        staff    20213 May 23 06:05 log.txt
+
+2019-05-23 06:15:24.911878 SENT: drwxr-xr-x   7 prestonbui  staff      224 Apr 28 00:33 test
+
+2019-05-23 06:15:24.912134 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+
+2019-05-23 06:15:28.076056 RECEIVED QUIT
+2019-05-23 06:15:28.076623 SENT: 221 Goodbye
+
+2019-05-23 06:15:28.081646 SENT: 502 Command not implemented.
+
+2019-05-23 06:16:14.301896 Started server on 10.0.0.187:2121
+2019-05-23 06:16:23.590403 SENT: 220 Welcome to this server.
+
+2019-05-23 06:16:23.590442 Connected on 10.0.0.187:50857
+2019-05-23 06:16:27.111086 RECEIVED USER pbui
+2019-05-23 06:16:27.111422 SENT: 331 User name okay, need password
+
+2019-05-23 06:16:28.141614 RECEIVED PASS buip
+2019-05-23 06:16:28.141952 SENT: 230 User logged in, proceed. Logged out if appropriate
+
+2019-05-23 06:16:28.147506 RECEIVED SYST
+2019-05-23 06:16:28.147853 SENT: 215 darwin type.
+
+2019-05-23 06:16:28.148343 RECEIVED FEAT
+2019-05-23 06:16:28.148648 SENT: 502 Command not implemented.
+
+2019-05-23 06:16:28.149112 RECEIVED PWD
+2019-05-23 06:16:28.149321 SENT: 257 /Users/prestonbui.
+
+2019-05-23 06:16:32.819308 RECEIVED EPSV
+2019-05-23 06:16:32.819627 SENT: 502 Command not implemented.
+
+2019-05-23 06:16:32.825475 RECEIVED PASV
+2019-05-23 06:16:32.826103 SENT: 227 Entering Passive Mode (10,0,0,187,198,170).
+
+2019-05-23 06:16:32.826826 RECEIVED LIST
+2019-05-23 06:16:32.830069 SENT: 150 File status okay; about to open data connection.
+
+2019-05-23 06:16:32.835358 SENT: total 40
+
+2019-05-23 06:16:32.835677 SENT: drwx------@  4 prestonbui  staff    128 Mar 24 16:01 Applications
+
+2019-05-23 06:16:32.835956 SENT: drwxr-xr-x   3 prestonbui  staff     96 Feb 20 19:08 CLionProjects
+
+2019-05-23 06:16:32.836203 SENT: drwx------+ 29 prestonbui  staff    928 May 23 05:21 Desktop
+
+2019-05-23 06:16:32.836546 SENT: drwx------+ 21 prestonbui  staff    672 May  5 18:38 Documents
+
+2019-05-23 06:16:32.836833 SENT: drwx------+ 83 prestonbui  staff   2656 May 22 23:55 Downloads
+
+2019-05-23 06:16:32.837097 SENT: drwxr-xr-x   5 prestonbui  staff    160 Apr 20 19:46 IdeaProjects
+
+2019-05-23 06:16:32.837312 SENT: drwx------@ 85 prestonbui  staff   2720 May 11 16:20 Library
+
+2019-05-23 06:16:32.837674 SENT: drwx------+  5 prestonbui  staff    160 Sep 30  2018 Movies
+
+2019-05-23 06:16:32.837938 SENT: drwx------+  7 prestonbui  staff    224 Feb 17 14:05 Music
+
+2019-05-23 06:16:32.838144 SENT: drwx------+  9 prestonbui  staff    288 May 14 20:57 Pictures
+
+2019-05-23 06:16:32.838350 SENT: drwxr-xr-x+  5 prestonbui  staff    160 Jan 25  2018 Public
+
+2019-05-23 06:16:32.838679 SENT: drwxr-xr-x   3 prestonbui  staff     96 Dec 15 03:28 PycharmProjects
+
+2019-05-23 06:16:32.838887 SENT: drwxr-xr-x@  4 prestonbui  staff    128 Sep 30  2018 Virtual Machines.localized
+
+2019-05-23 06:16:32.839099 SENT: drwxr-xr-x   2 prestonbui  staff     64 Mar 29 01:32 VirtualBox VMs
+
+2019-05-23 06:16:32.839268 SENT: drwxr-xr-x  27 prestonbui  staff    864 May 11 16:28 anaconda3
+
+2019-05-23 06:16:32.839495 SENT: drwxr-xr-x   4 prestonbui  staff    128 Feb  7  2018 data-algo
+
+2019-05-23 06:16:32.839723 SENT: drwxr-xr-x   3 prestonbui  staff     96 Sep  1  2018 eclipse
+
+2019-05-23 06:16:32.839934 SENT: drwxr-xr-x   5 prestonbui  staff    160 Sep  1  2018 eclipse-workspace
+
+2019-05-23 06:16:32.840141 SENT: -rw-r--r--   1 root        staff  20213 May 23 06:05 log.txt
+
+2019-05-23 06:16:32.840523 SENT: drwxr-xr-x   7 prestonbui  staff    224 Apr 28 00:33 test
+
+2019-05-23 06:16:32.840788 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+
+2019-05-23 06:17:05.549794 RECEIVED QUIT
+2019-05-23 06:17:05.550230 SENT: 221 Goodbye
+
+2019-05-23 06:17:05.555435 SENT: 502 Command not implemented.
+
+2019-05-23 06:17:15.787453 Started server on 10.0.0.187:2121
+2019-05-23 06:17:23.784847 SENT: 220 Welcome to this server.
+
+2019-05-23 06:17:23.784877 Connected on 10.0.0.187:50864
+2019-05-23 06:17:31.636561 RECEIVED USER pbui
+2019-05-23 06:17:31.637106 SENT: 331 User name okay, need password
+
+2019-05-23 06:17:32.480478 RECEIVED PASS buip
+2019-05-23 06:17:32.480799 SENT: 230 User logged in, proceed. Logged out if appropriate
+
+2019-05-23 06:17:32.486447 RECEIVED SYST
+2019-05-23 06:17:32.486744 SENT: 215 darwin type.
+
+2019-05-23 06:17:32.487165 RECEIVED FEAT
+2019-05-23 06:17:32.487502 SENT: 502 Command not implemented.
+
+2019-05-23 06:17:32.488096 RECEIVED PWD
+2019-05-23 06:17:32.488480 SENT: 257 /Users/prestonbui.
+
+2019-05-23 06:17:34.695503 RECEIVED EPSV
+2019-05-23 06:17:34.695845 SENT: 502 Command not implemented.
+
+2019-05-23 06:17:34.701615 RECEIVED PASV
+2019-05-23 06:17:34.702132 SENT: 227 Entering Passive Mode (10,0,0,187,198,177).
+
+2019-05-23 06:17:34.702842 RECEIVED LIST
+2019-05-23 06:17:34.705714 SENT: 150 File status okay; about to open data connection.
+
+2019-05-23 06:17:34.711633 SENT: total 8304
+
+2019-05-23 06:17:34.712088 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 27 18:45 .3T
+
+2019-05-23 06:17:34.712321 SENT: -r--------   1 prestonbui  staff        7 Jan 25  2018 .CFUserTextEncoding
+
+2019-05-23 06:17:34.712504 SENT: -rw-r--r--@  1 prestonbui  staff    14340 May 11 17:06 .DS_Store
+
+2019-05-23 06:17:34.712677 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .IdentityService
+
+2019-05-23 06:17:34.712834 SENT: -rw-r--r--   1 prestonbui  staff     3394 May 14 18:17 .Rapp.history
+
+2019-05-23 06:17:34.712988 SENT: drwx------   3 prestonbui  staff       96 Dec  5 13:11 .ServiceHub
+
+2019-05-23 06:17:34.713139 SENT: drwx------  28 prestonbui  staff      896 May 22 01:56 .Trash
+
+2019-05-23 06:17:34.713327 SENT: -rw-r--r--   1 prestonbui  staff      290 Apr 28 15:13 .aliases
+
+2019-05-23 06:17:34.713489 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:10 .anaconda
+
+2019-05-23 06:17:34.713822 SENT: drwxr-xr-x  18 prestonbui  staff      576 Mar 12 14:21 .android
+
+2019-05-23 06:17:34.714098 SENT: drwxr-xr-x  16 prestonbui  staff      512 May 21 23:52 .atom
+
+2019-05-23 06:17:34.714309 SENT: -rw-r--r--   1 prestonbui  staff  3622969 May 25  2018 .babel.json
+
+2019-05-23 06:17:34.714695 SENT: -rw-------   1 prestonbui  staff      238 Dec 13 11:47 .bash_history
+
+2019-05-23 06:17:34.714925 SENT: -rw-r--r--@  1 prestonbui  staff     1117 May 11 16:45 .bash_profile
+
+2019-05-23 06:17:34.715272 SENT: -rw-r--r--   1 prestonbui  staff      631 Dec 13 11:32 .bash_profile-anaconda2.bak
+
+2019-05-23 06:17:34.715580 SENT: -rw-r--r--   1 prestonbui  staff     1227 Dec 13 11:54 .bash_profile-anaconda3.bak
+
+2019-05-23 06:17:34.715748 SENT: -rw-r--r--   1 prestonbui  staff       35 May 11 16:38 .bashrc
+
+2019-05-23 06:17:34.715958 SENT: -rw-------   1 prestonbui  staff        1 Apr 28 11:03 .bashrc.save
+
+2019-05-23 06:17:34.716168 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 28 02:03 .cache
+
+2019-05-23 06:17:34.716351 SENT: drwxr-xr-x   4 prestonbui  staff      128 Mar 27  2018 .circleci
+
+2019-05-23 06:17:34.716518 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:54 .conda
+
+2019-05-23 06:17:34.716707 SENT: -rw-r--r--   1 prestonbui  staff       40 May 11 16:13 .condarc
+
+2019-05-23 06:17:34.716876 SENT: drwx------   9 prestonbui  staff      288 Feb 13  2018 .config
+
+2019-05-23 06:17:34.717084 SENT: -rw-------   1 prestonbui  staff        0 Jan 26  2018 .dbshell
+
+2019-05-23 06:17:34.717257 SENT: drwxr-xr-x   5 prestonbui  staff      160 Aug 30  2018 .docker
+
+2019-05-23 06:17:34.717441 SENT: drwxr-xr-x  10 prestonbui  staff      320 Sep  1  2018 .eclipse
+
+2019-05-23 06:17:34.717601 SENT: -rw-------   1 prestonbui  staff       16 Jan 28  2018 .emulator_console_auth_token
+
+2019-05-23 06:17:34.717858 SENT: drwxr-xr-x  10 prestonbui  staff      320 May 30  2018 .expo
+
+2019-05-23 06:17:34.718080 SENT: drwxr-xr-x   4 prestonbui  staff      128 Jul  7  2018 .gem
+
+2019-05-23 06:17:34.718273 SENT: -rw-r--r--   1 prestonbui  staff       52 Jan 25  2018 .gitconfig
+
+2019-05-23 06:17:34.718445 SENT: drwxr-xr-x   7 prestonbui  staff      224 Jan 25  2018 .gradle
+
+2019-05-23 06:17:34.718611 SENT: drwxr-xr-x   2 prestonbui  staff       64 May 11 16:58 .ipynb_checkpoints
+
+2019-05-23 06:17:34.718764 SENT: drwxr-xr-x   5 prestonbui  staff      160 Dec 31 14:48 .ipython
+
+2019-05-23 06:17:34.719037 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 31 15:13 .jupyter
+
+2019-05-23 06:17:34.719224 SENT: -rw-------   1 prestonbui  staff       47 May 11 16:23 .lesshst
+
+2019-05-23 06:17:34.719384 SENT: drwx------   3 prestonbui  staff       96 Jan 25  2018 .local
+
+2019-05-23 06:17:34.719580 SENT: -rw-------   1 prestonbui  staff        0 Jan 25  2018 .mongorc.js
+
+2019-05-23 06:17:34.719845 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .mono
+
+2019-05-23 06:17:34.720098 SENT: -rw-------   1 prestonbui  staff     2272 Jan 31  2018 .mysql_history
+
+2019-05-23 06:17:34.720569 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 16 18:24 .node-gyp
+
+2019-05-23 06:17:34.721083 SENT: -rw-------   1 prestonbui  staff     1534 Apr  4  2018 .node_repl_history
+
+2019-05-23 06:17:34.721394 SENT: drwxr-xr-x   7 prestonbui  staff      224 Dec 16 17:35 .npm
+
+2019-05-23 06:17:34.721593 SENT: -rw-r--r--   1 prestonbui  staff       43 Apr 17  2018 .nuuid.ini
+
+2019-05-23 06:17:34.721941 SENT: drwxr-xr-x  16 prestonbui  staff      512 Jan 25  2018 .oh-my-zsh
+
+2019-05-23 06:17:34.722392 SENT: drwxr-xr-x  11 prestonbui  staff      352 Apr 18 15:50 .oracle_jre_usage
+
+2019-05-23 06:17:34.722702 SENT: drwxr-xr-x   8 prestonbui  staff      256 Sep  1  2018 .p2
+
+2019-05-23 06:17:34.722952 SENT: -rw-------   1 prestonbui  staff      329 Mar 12  2018 .php_history
+
+2019-05-23 06:17:34.723357 SENT: -rw-------   1 prestonbui  staff     1734 May 11 17:14 .psql_history
+
+2019-05-23 06:17:34.723640 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 21 17:46 .pylint.d
+
+2019-05-23 06:17:34.723884 SENT: -rw-------   1 prestonbui  staff      711 May 23 05:26 .python_history
+
+2019-05-23 06:17:34.724148 SENT: drwxr-xr-x   6 prestonbui  staff      192 May 23  2018 .rncache
+
+2019-05-23 06:17:34.724402 SENT: -rw-------   1 prestonbui  staff       39 Apr 19 00:34 .sh_history
+
+2019-05-23 06:17:34.724619 SENT: drwx------   7 prestonbui  staff      224 Jan  9 16:30 .ssh
+
+2019-05-23 06:17:34.724792 SENT: drwxr-xr-x   6 prestonbui  staff      192 Jan 26  2018 .subversion
+
+2019-05-23 06:17:34.725098 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .templateengine
+
+2019-05-23 06:17:34.725391 SENT: drwxr-xr-x   2 prestonbui  staff       64 Nov  6  2018 .thinkorswim
+
+2019-05-23 06:17:34.725557 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 .tooling
+
+2019-05-23 06:17:34.725716 SENT: drwxr-xr-x   4 prestonbui  staff      128 Apr 18 22:21 .vim
+
+2019-05-23 06:17:34.725874 SENT: -rw-r--r--   1 prestonbui  staff     4872 May 23 05:55 .vim_mru_files
+
+2019-05-23 06:17:34.726024 SENT: drwxr-xr-x  16 prestonbui  staff      512 Mar 28 02:03 .vim_runtime
+
+2019-05-23 06:17:34.726170 SENT: -rw-------   1 prestonbui  staff    34545 May 23 05:58 .viminfo
+
+2019-05-23 06:17:34.726315 SENT: -rw-r--r--   1 prestonbui  staff      286 Apr 17 13:03 .vimrc
+
+2019-05-23 06:17:34.726462 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jun 29  2018 .vmware
+
+2019-05-23 06:17:34.726607 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 26  2018 .vscode
+
+2019-05-23 06:17:34.726760 SENT: -rw-r--r--   1 prestonbui  staff    38596 Jan 28  2018 .zcompdump-Phuong’s MacBook Pro-5.2
+
+2019-05-23 06:17:34.726920 SENT: -rw-r--r--   1 prestonbui  staff    40595 Feb 19  2018 .zcompdump-Phuong’s MacBook Pro-5.3
+
+2019-05-23 06:17:34.727065 SENT: drwxr-xr-x   3 prestonbui  staff       96 Apr 16 16:05 .zoomus
+
+2019-05-23 06:17:34.727227 SENT: -rw-r--r--   1 prestonbui  staff       17 Jan 25  2018 .zsh-update
+
+2019-05-23 06:17:34.727384 SENT: -rw-------   1 prestonbui  staff   343487 May 23 06:17 .zsh_history
+
+2019-05-23 06:17:34.727574 SENT: -rw-r--r--   1 prestonbui  staff     4290 May 11 16:45 .zshrc
+
+2019-05-23 06:17:34.727800 SENT: drwx------@  4 prestonbui  staff      128 Mar 24 16:01 Applications
+
+2019-05-23 06:17:34.727988 SENT: drwxr-xr-x   3 prestonbui  staff       96 Feb 20 19:08 CLionProjects
+
+2019-05-23 06:17:34.728152 SENT: drwx------+ 29 prestonbui  staff      928 May 23 05:21 Desktop
+
+2019-05-23 06:17:34.728320 SENT: drwx------+ 21 prestonbui  staff      672 May  5 18:38 Documents
+
+2019-05-23 06:17:34.728473 SENT: drwx------+ 83 prestonbui  staff     2656 May 22 23:55 Downloads
+
+2019-05-23 06:17:34.728642 SENT: drwxr-xr-x   5 prestonbui  staff      160 Apr 20 19:46 IdeaProjects
+
+2019-05-23 06:17:34.728798 SENT: drwx------@ 85 prestonbui  staff     2720 May 11 16:20 Library
+
+2019-05-23 06:17:34.728942 SENT: drwx------+  5 prestonbui  staff      160 Sep 30  2018 Movies
+
+2019-05-23 06:17:34.729085 SENT: drwx------+  7 prestonbui  staff      224 Feb 17 14:05 Music
+
+2019-05-23 06:17:34.729230 SENT: drwx------+  9 prestonbui  staff      288 May 14 20:57 Pictures
+
+2019-05-23 06:17:34.729374 SENT: drwxr-xr-x+  5 prestonbui  staff      160 Jan 25  2018 Public
+
+2019-05-23 06:17:34.729542 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 15 03:28 PycharmProjects
+
+2019-05-23 06:17:34.729728 SENT: drwxr-xr-x@  4 prestonbui  staff      128 Sep 30  2018 Virtual Machines.localized
+
+2019-05-23 06:17:34.729904 SENT: drwxr-xr-x   2 prestonbui  staff       64 Mar 29 01:32 VirtualBox VMs
+
+2019-05-23 06:17:34.730128 SENT: drwxr-xr-x  27 prestonbui  staff      864 May 11 16:28 anaconda3
+
+2019-05-23 06:17:34.730308 SENT: drwxr-xr-x   4 prestonbui  staff      128 Feb  7  2018 data-algo
+
+2019-05-23 06:17:34.730471 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 eclipse
+
+2019-05-23 06:17:34.730820 SENT: drwxr-xr-x   5 prestonbui  staff      160 Sep  1  2018 eclipse-workspace
+
+2019-05-23 06:17:34.730987 SENT: -rw-r--r--   1 root        staff    20213 May 23 06:05 log.txt
+
+2019-05-23 06:17:34.731143 SENT: drwxr-xr-x   7 prestonbui  staff      224 Apr 28 00:33 test
+
+2019-05-23 06:17:34.731359 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+
+2019-05-23 06:18:10.995569 RECEIVED PASV
+2019-05-23 06:18:10.995979 SENT: 227 Entering Passive Mode (10,0,0,187,198,180).
+
+2019-05-23 06:18:11.001937 RECEIVED LIST
+2019-05-23 06:18:11.005925 SENT: 150 File status okay; about to open data connection.
+
+2019-05-23 06:18:11.012860 SENT: total 8304
+
+2019-05-23 06:18:11.013302 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 27 18:45 .3T
+
+2019-05-23 06:18:11.013805 SENT: -r--------   1 prestonbui  staff        7 Jan 25  2018 .CFUserTextEncoding
+
+2019-05-23 06:18:11.014133 SENT: -rw-r--r--@  1 prestonbui  staff    14340 May 11 17:06 .DS_Store
+
+2019-05-23 06:18:11.014389 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .IdentityService
+
+2019-05-23 06:18:11.014653 SENT: -rw-r--r--   1 prestonbui  staff     3394 May 14 18:17 .Rapp.history
+
+2019-05-23 06:18:11.014898 SENT: drwx------   3 prestonbui  staff       96 Dec  5 13:11 .ServiceHub
+
+2019-05-23 06:18:11.015116 SENT: drwx------  28 prestonbui  staff      896 May 22 01:56 .Trash
+
+2019-05-23 06:18:11.015308 SENT: -rw-r--r--   1 prestonbui  staff      290 Apr 28 15:13 .aliases
+
+2019-05-23 06:18:11.015482 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:10 .anaconda
+
+2019-05-23 06:18:11.015660 SENT: drwxr-xr-x  18 prestonbui  staff      576 Mar 12 14:21 .android
+
+2019-05-23 06:18:11.015918 SENT: drwxr-xr-x  16 prestonbui  staff      512 May 21 23:52 .atom
+
+2019-05-23 06:18:11.016246 SENT: -rw-r--r--   1 prestonbui  staff  3622969 May 25  2018 .babel.json
+
+2019-05-23 06:18:11.016512 SENT: -rw-------   1 prestonbui  staff      238 Dec 13 11:47 .bash_history
+
+2019-05-23 06:18:11.016764 SENT: -rw-r--r--@  1 prestonbui  staff     1117 May 11 16:45 .bash_profile
+
+2019-05-23 06:18:11.017018 SENT: -rw-r--r--   1 prestonbui  staff      631 Dec 13 11:32 .bash_profile-anaconda2.bak
+
+2019-05-23 06:18:11.017387 SENT: -rw-r--r--   1 prestonbui  staff     1227 Dec 13 11:54 .bash_profile-anaconda3.bak
+
+2019-05-23 06:18:11.017602 SENT: -rw-r--r--   1 prestonbui  staff       35 May 11 16:38 .bashrc
+
+2019-05-23 06:18:11.017807 SENT: -rw-------   1 prestonbui  staff        1 Apr 28 11:03 .bashrc.save
+
+2019-05-23 06:18:11.017965 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 28 02:03 .cache
+
+2019-05-23 06:18:11.018208 SENT: drwxr-xr-x   4 prestonbui  staff      128 Mar 27  2018 .circleci
+
+2019-05-23 06:18:11.018586 SENT: drwxr-xr-x   3 prestonbui  staff       96 May 11 16:54 .conda
+
+2019-05-23 06:18:11.018778 SENT: -rw-r--r--   1 prestonbui  staff       40 May 11 16:13 .condarc
+
+2019-05-23 06:18:11.018946 SENT: drwx------   9 prestonbui  staff      288 Feb 13  2018 .config
+
+2019-05-23 06:18:11.019216 SENT: -rw-------   1 prestonbui  staff        0 Jan 26  2018 .dbshell
+
+2019-05-23 06:18:11.019405 SENT: drwxr-xr-x   5 prestonbui  staff      160 Aug 30  2018 .docker
+
+2019-05-23 06:18:11.019666 SENT: drwxr-xr-x  10 prestonbui  staff      320 Sep  1  2018 .eclipse
+
+2019-05-23 06:18:11.019963 SENT: -rw-------   1 prestonbui  staff       16 Jan 28  2018 .emulator_console_auth_token
+
+2019-05-23 06:18:11.020245 SENT: drwxr-xr-x  10 prestonbui  staff      320 May 30  2018 .expo
+
+2019-05-23 06:18:11.020457 SENT: drwxr-xr-x   4 prestonbui  staff      128 Jul  7  2018 .gem
+
+2019-05-23 06:18:11.020668 SENT: -rw-r--r--   1 prestonbui  staff       52 Jan 25  2018 .gitconfig
+
+2019-05-23 06:18:11.020883 SENT: drwxr-xr-x   7 prestonbui  staff      224 Jan 25  2018 .gradle
+
+2019-05-23 06:18:11.021070 SENT: drwxr-xr-x   2 prestonbui  staff       64 May 11 16:58 .ipynb_checkpoints
+
+2019-05-23 06:18:11.021399 SENT: drwxr-xr-x   5 prestonbui  staff      160 Dec 31 14:48 .ipython
+
+2019-05-23 06:18:11.021636 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 31 15:13 .jupyter
+
+2019-05-23 06:18:11.021902 SENT: -rw-------   1 prestonbui  staff       47 May 11 16:23 .lesshst
+
+2019-05-23 06:18:11.022119 SENT: drwx------   3 prestonbui  staff       96 Jan 25  2018 .local
+
+2019-05-23 06:18:11.022335 SENT: -rw-------   1 prestonbui  staff        0 Jan 25  2018 .mongorc.js
+
+2019-05-23 06:18:11.022515 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .mono
+
+2019-05-23 06:18:11.022691 SENT: -rw-------   1 prestonbui  staff     2272 Jan 31  2018 .mysql_history
+
+2019-05-23 06:18:11.022884 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 16 18:24 .node-gyp
+
+2019-05-23 06:18:11.023123 SENT: -rw-------   1 prestonbui  staff     1534 Apr  4  2018 .node_repl_history
+
+2019-05-23 06:18:11.023439 SENT: drwxr-xr-x   7 prestonbui  staff      224 Dec 16 17:35 .npm
+
+2019-05-23 06:18:11.023644 SENT: -rw-r--r--   1 prestonbui  staff       43 Apr 17  2018 .nuuid.ini
+
+2019-05-23 06:18:11.023848 SENT: drwxr-xr-x  16 prestonbui  staff      512 Jan 25  2018 .oh-my-zsh
+
+2019-05-23 06:18:11.024007 SENT: drwxr-xr-x  11 prestonbui  staff      352 Apr 18 15:50 .oracle_jre_usage
+
+2019-05-23 06:18:11.024208 SENT: drwxr-xr-x   8 prestonbui  staff      256 Sep  1  2018 .p2
+
+2019-05-23 06:18:11.024541 SENT: -rw-------   1 prestonbui  staff      329 Mar 12  2018 .php_history
+
+2019-05-23 06:18:11.024729 SENT: -rw-------   1 prestonbui  staff     1734 May 11 17:14 .psql_history
+
+2019-05-23 06:18:11.024921 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 21 17:46 .pylint.d
+
+2019-05-23 06:18:11.025090 SENT: -rw-------   1 prestonbui  staff      711 May 23 05:26 .python_history
+
+2019-05-23 06:18:11.025243 SENT: drwxr-xr-x   6 prestonbui  staff      192 May 23  2018 .rncache
+
+2019-05-23 06:18:11.025463 SENT: -rw-------   1 prestonbui  staff       39 Apr 19 00:34 .sh_history
+
+2019-05-23 06:18:11.025654 SENT: drwx------   7 prestonbui  staff      224 Jan  9 16:30 .ssh
+
+2019-05-23 06:18:11.025903 SENT: drwxr-xr-x   6 prestonbui  staff      192 Jan 26  2018 .subversion
+
+2019-05-23 06:18:11.026108 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jan 26  2018 .templateengine
+
+2019-05-23 06:18:11.026274 SENT: drwxr-xr-x   2 prestonbui  staff       64 Nov  6  2018 .thinkorswim
+
+2019-05-23 06:18:11.026431 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 .tooling
+
+2019-05-23 06:18:11.026585 SENT: drwxr-xr-x   4 prestonbui  staff      128 Apr 18 22:21 .vim
+
+2019-05-23 06:18:11.026736 SENT: -rw-r--r--   1 prestonbui  staff     4872 May 23 05:55 .vim_mru_files
+
+2019-05-23 06:18:11.026882 SENT: drwxr-xr-x  16 prestonbui  staff      512 Mar 28 02:03 .vim_runtime
+
+2019-05-23 06:18:11.027026 SENT: -rw-------   1 prestonbui  staff    34545 May 23 05:58 .viminfo
+
+2019-05-23 06:18:11.027171 SENT: -rw-r--r--   1 prestonbui  staff      286 Apr 17 13:03 .vimrc
+
+2019-05-23 06:18:11.027321 SENT: drwxr-xr-x   3 prestonbui  staff       96 Jun 29  2018 .vmware
+
+2019-05-23 06:18:11.027470 SENT: drwxr-xr-x   3 prestonbui  staff       96 Mar 26  2018 .vscode
+
+2019-05-23 06:18:11.027689 SENT: -rw-r--r--   1 prestonbui  staff    38596 Jan 28  2018 .zcompdump-Phuong’s MacBook Pro-5.2
+
+2019-05-23 06:18:11.027895 SENT: -rw-r--r--   1 prestonbui  staff    40595 Feb 19  2018 .zcompdump-Phuong’s MacBook Pro-5.3
+
+2019-05-23 06:18:11.028103 SENT: drwxr-xr-x   3 prestonbui  staff       96 Apr 16 16:05 .zoomus
+
+2019-05-23 06:18:11.028273 SENT: -rw-r--r--   1 prestonbui  staff       17 Jan 25  2018 .zsh-update
+
+2019-05-23 06:18:11.028430 SENT: -rw-------   1 prestonbui  staff   343487 May 23 06:17 .zsh_history
+
+2019-05-23 06:18:11.028582 SENT: -rw-r--r--   1 prestonbui  staff     4290 May 11 16:45 .zshrc
+
+2019-05-23 06:18:11.028731 SENT: drwx------@  4 prestonbui  staff      128 Mar 24 16:01 Applications
+
+2019-05-23 06:18:11.028879 SENT: drwxr-xr-x   3 prestonbui  staff       96 Feb 20 19:08 CLionProjects
+
+2019-05-23 06:18:11.029025 SENT: drwx------+ 29 prestonbui  staff      928 May 23 05:21 Desktop
+
+2019-05-23 06:18:11.029241 SENT: drwx------+ 21 prestonbui  staff      672 May  5 18:38 Documents
+
+2019-05-23 06:18:11.029428 SENT: drwx------+ 83 prestonbui  staff     2656 May 22 23:55 Downloads
+
+2019-05-23 06:18:11.029638 SENT: drwxr-xr-x   5 prestonbui  staff      160 Apr 20 19:46 IdeaProjects
+
+2019-05-23 06:18:11.029817 SENT: drwx------@ 85 prestonbui  staff     2720 May 11 16:20 Library
+
+2019-05-23 06:18:11.030002 SENT: drwx------+  5 prestonbui  staff      160 Sep 30  2018 Movies
+
+2019-05-23 06:18:11.030154 SENT: drwx------+  7 prestonbui  staff      224 Feb 17 14:05 Music
+
+2019-05-23 06:18:11.030331 SENT: drwx------+  9 prestonbui  staff      288 May 14 20:57 Pictures
+
+2019-05-23 06:18:11.030481 SENT: drwxr-xr-x+  5 prestonbui  staff      160 Jan 25  2018 Public
+
+2019-05-23 06:18:11.030671 SENT: drwxr-xr-x   3 prestonbui  staff       96 Dec 15 03:28 PycharmProjects
+
+2019-05-23 06:18:11.030959 SENT: drwxr-xr-x@  4 prestonbui  staff      128 Sep 30  2018 Virtual Machines.localized
+
+2019-05-23 06:18:11.031136 SENT: drwxr-xr-x   2 prestonbui  staff       64 Mar 29 01:32 VirtualBox VMs
+
+2019-05-23 06:18:11.031299 SENT: drwxr-xr-x  27 prestonbui  staff      864 May 11 16:28 anaconda3
+
+2019-05-23 06:18:11.031451 SENT: drwxr-xr-x   4 prestonbui  staff      128 Feb  7  2018 data-algo
+
+2019-05-23 06:18:11.031647 SENT: drwxr-xr-x   3 prestonbui  staff       96 Sep  1  2018 eclipse
+
+2019-05-23 06:18:11.031947 SENT: drwxr-xr-x   5 prestonbui  staff      160 Sep  1  2018 eclipse-workspace
+
+2019-05-23 06:18:11.032165 SENT: -rw-r--r--   1 root        staff    20213 May 23 06:05 log.txt
+
+2019-05-23 06:18:11.032401 SENT: drwxr-xr-x   7 prestonbui  staff      224 Apr 28 00:33 test
+
+2019-05-23 06:18:11.032691 SENT: 226 Closing data connection. Requested file action successful (for example, file transfer or file abort).
+
+2019-05-23 06:18:13.553515 RECEIVED CWD Desktop
