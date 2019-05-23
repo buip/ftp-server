@@ -237,24 +237,21 @@ class FTPServer(threading.Thread):
             self.logger.write_to_log_file("Cannot enter active mode")
             self.send_cmd(status_code[502] + CRLF)
 
-    def ESPV(self, command):
+    def EPSV(self, command):
         """
         This should work for any protocol
         Send the address and port content for the client to connect to
         """
         try:
-            self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+            self.sock = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
             self.sock.bind((self.host, 0))
             self.sock.listen(5)
             addr, port = self.sock.getsockname()
             addr_to_send = ','.join(addr.split('.'))
-            port_to_send_1 = port>>8&0xFF
-            port_to_send_2 = port&0xFF
-            self.send_cmd(f'227 Entering Passive Mode ({addr_to_send},{port_to_send_1},{port_to_send_2}).{CRLF}')
+            self.send_cmd(f'229 Entering Extended Passive Mode (|||{port}|){CRLF}')
             self.is_active = False
         except:
-            self.logger.write_to_log_file("Cannot enter passive mode")
+            self.logger.write_to_log_file("Cannot enter extended passive mode")
             self.send_cmd(status_code[502] + CRLF)
 
     def EPRT(self, command):
