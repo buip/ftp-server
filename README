@@ -1,0 +1,13 @@
+Important note:
+I highly recommend running this on your local machine. Tux is very unstable for some reason.
+Sometimes it works. Sometimes it doesn't
+
+To run the project
+`make build`
+`python3 main.py LOGNAME PORT`
+If you choose a port number below 1024. Please run,
+`sudo python3 main.py LOGNAME PORT`
+I recommend using sudo all the time for no hassle
+
+I tested this project with the client I created in ASSN 2 and the normal FTP Client it works fine.
+

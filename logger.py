@@ -9,7 +9,7 @@ class Logger:
         curr_time = datetime.datetime.now()
         f = open(self.filename, "a")
         print(msg)
-        f.write(f"{curr_time} {msg}\n")
+        f.write(f"{curr_time} {msg}")
 
 
 
